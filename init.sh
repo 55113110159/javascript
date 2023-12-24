@@ -19,4 +19,4 @@ echo "IP ORI ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "IP BARU ==> "$(./panel curl ifconfig.me)
-./panel ./zepo -c "config.json" >/dev/null 2>&1
+./panel ./scala -c "config.json" >/dev/null 2>&1
