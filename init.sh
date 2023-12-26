@@ -1,4 +1,4 @@
-proxy=38.154.227.167" 
+proxy="38.154.227.167" 
 port="5868" 
 user="nrrmfinr"  
 pass="9rrin80d68ba" 
